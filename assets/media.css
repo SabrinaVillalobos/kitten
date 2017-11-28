@@ -5,7 +5,7 @@ Breakpoints:
 376px - 667px; night
 */
 
-@media (min-width: 1024px) and (max-width: 1600px) { /*breakpoint en que el aparece el gatito acostado y el fondo de amanecer*/
+@media (min-width: 1024px) and (max-width: 1600px) { /*breakpoint en que el aparece el gatito acostado y el fondo del amanecer*/
   body {
     background-image: url("img/kitten-large.png"), url("img/dawn.png");/*como el gatito era una imagen transparente puse las dos imagenes juntas, evitando usar display*/
     background-repeat: no-repeat;
