@@ -11,7 +11,7 @@ Breakpoints:
     background-repeat: no-repeat;
     background-size: 48%, cover;
     height: 100%;
-    background-position: bottom center, center center; /*posiciona el fondo para que ocupe toda la pantalla*/
+    background-position: bottom center, center center; /*posiciona el fondo para que ocupe toda la pantalla */
     background-attachment: fixed;
   }
 }
